@@ -10,11 +10,20 @@
     "type": "git",
     "url": "git+https://github.com/Marcelo-Diament/DHFS0222CDFSPN02BRED-express-01.git"
   },
-  "keywords": ["nodejs","express"],
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
   "author": "Marcelo Diament",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Marcelo-Diament/DHFS0222CDFSPN02BRED-express-01/issues"
   },
-  "homepage": "https://github.com/Marcelo-Diament/DHFS0222CDFSPN02BRED-express-01#readme"
+  "homepage": "https://github.com/Marcelo-Diament/DHFS0222CDFSPN02BRED-express-01#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
